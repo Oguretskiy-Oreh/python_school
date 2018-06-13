@@ -12,10 +12,10 @@
 
 ### Contribution guidelines ###
 
-Сделать форк этого репозитория (как это сделать - https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html)
-В свой репозиторий запушить последнюю версию проекта с ветки `master`
-Не нужно заморачиваться с merge/rebase - просто скопируйте последнюю версию проекта в этот репозиторий и закомитте.
-На сайте bitbucket.org зайти в своём репозитории в раздел "Pull Request" и создать pull request в этот репозиторий (alexandr_ignatov/python-scool)
+Сделать форк этого репозитория (как это сделать - https://confluence.atlassian.com/bitbucket/forking-a-repository-221449527.html).  
+В свой репозиторий запушить последнюю версию проекта с ветки `master`.  
+Не нужно заморачиваться с merge/rebase - просто скопируйте последнюю версию проекта в этот репозиторий и закомитте.  
+На сайте bitbucket.org зайти в своём репозитории в раздел "Pull Request" и создать pull request в этот репозиторий (alexandr_ignatov/python-scool).
 
 Title - FirstName LastName <Email>
 Description:
