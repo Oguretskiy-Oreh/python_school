@@ -25,7 +25,7 @@
 4. Выполнить необходимые изменения, закомитить и запушить их в удаленный репозиторий. То есть в вашем форке на bitbucket должна появиться ветка Lesson_1 с вашими изменениями.  
 5. На сайте bitbucket.org зайти в своём репозитории в раздел "Pull Request" и создать pull request (вашей ветки) в этот репозиторий (alexandr_ignatov/python-scool).  
     
-    Title - FirstName LastName <Email>  
+    Title - FirstName LastName <Email>: Lesson Number(E.g. Lesson 1)
     Description:  
     Описание изменений (E.g. Exercises for the Lesson 1)  
     дополнительные сведения вроде пояснений и т.п.
