@@ -2,6 +2,7 @@
   
 ШЮП Артезио
 Автор заданий - Александр Игнатов
+Материалы для обучения - https://drive.google.com/drive/u/1/folders/1jUBrSJauBKdfnc4SVye5GJMfvrIERNuc
   
 ### How do I get set up? ###
   
