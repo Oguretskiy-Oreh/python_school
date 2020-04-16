@@ -8,3 +8,9 @@
 # 93289 Lauren
 # где можно найти очки, которые заработал пользователь.
 # Нужно создать словарь из этих данных, найти победителя.
+
+
+dict_of_players = {'Jack': 69485, 'Michail': 95715, 'Alex': 95715, 'Morgan': 83647, 'Jerry': 197128, 'Nikole': 95715, 'Lauren': 93289}
+for i, j in dict_of_players.items():
+	if j == max(dict_of_players.values()):
+		print(i, j)
