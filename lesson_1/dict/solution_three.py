@@ -7,3 +7,11 @@
 # Moscow
 # Novgorod
 # San Francisco
+
+
+country = {'Russia': ['Moscow', 'Petersburg', 'Novgorod', 'Kaluga​'], 'Ukraine': ['Kiev', 'Donetsk', 'Odessa'], 'USA': ['San Francisco']}
+city = ['Odessa', 'Moscow', 'Novgorod', 'San Francisco']
+for co, ci in country.items():
+	for c in ci:
+		if c in city:
+			print(c, '-', co)
